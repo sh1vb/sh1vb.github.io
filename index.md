@@ -5,7 +5,7 @@ Here, I share real-world projects where I apply machine learning, analytics, and
 
 ## 📂 Projects
 
-- [Heart Disease Classifier](heart-disease.md)
+- [Heart Disease Classifier](heart-disease-classifier.md)
 - [Stock Price Forecasting Tool](stock-prediction.md)
 - [Movie Recommendation System](movie-recommender.md)
 
