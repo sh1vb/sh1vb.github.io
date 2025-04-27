@@ -1,2 +1,32 @@
 title: Shivani Battu
-theme: minimal-mistakes
+email: shivanibattu99@gmail.com
+description: >-
+  Data Science Enthusiast | Turning data into impactful solutions.
+baseurl: "" 
+url: "https://your-github-username.github.io" # change this!
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+author:
+  name: Shivani Battu
+  avatar: /assets/images/avatar.png # optional
+  bio: "MS in Data Science | Passionate about solving real-world problems through data science, machine learning, and analytics."
+  location: Illinois, USA
+  links:
+    - label: "GitHub"
+      url: "https://github.com/sh1vb"
+    - label: "LinkedIn"
+      url: "https://linkedin.com/in/shivani-battu-b49718194"
+    - label: "Email"
+      url: "mailto:shivanibattu99@gmail.com"
+
+# Navigation links
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
