@@ -6,6 +6,7 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/banner.jpg
 excerpt: "Welcome to my Data Science projects portfolio. Let's explore together!"
+---
 
 # 👩‍💻 About Me
 
@@ -46,6 +47,4 @@ I turn complex data into clear insights to empower smart decisions.
   </div>
 
 </div>
-
----
 
