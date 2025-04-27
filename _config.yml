@@ -11,8 +11,8 @@ plugins:
 
 author:
   name: Shivani Battu
-  avatar: /assets/images/avatar.png # optional
-  bio: "MS in Data Science | Passionate about solving real-world problems through data science, machine learning, and analytics."
+  avatar: image0.jpeg 
+  bio: "MS in Data Science | Data Science, Machine learning, and Analytics."
   location: Illinois, USA
   links:
     - label: "GitHub"
