@@ -15,23 +15,29 @@ I turn complex data into clear insights to empower smart decisions.
 
 # 🎯 Skills
 
-| Skill | Progress |
-|:-----|:---------|
-| Python | 🟩🟩🟩⬜⬜ |
-| SQL | 🟩🟩🟩🟩⬜ |
-| Tableau | 🟩🟩🟩⬜⬜ |
-| Power BI | 🟩🟩🟩⬜⬜ |
-| R | 🟩🟩🟩🟩⬜ |
-| SPSS | 🟩🟩🟩⬜⬜ |
+**Python:** 🟩🟩🟩⬜⬜ 
+**SQL:** 🟩🟩🟩🟩⬜ 
+**Tableau:** 🟩🟩🟩⬜⬜ 
+**Power BI:** 🟩🟩🟩⬜⬜
+**R:** 🟩🟩🟩🟩⬜ 
+**SPSS:** 🟩🟩🟩⬜⬜ 
 
 <h2>🌟 Projects</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 280px;">
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; box-shadow: 2px 2px 8px #aaa;">
     <h3>Heart Disease Classifier</h3>
-    <p>ML model predicting heart disease risk with 94.5% accuracy.</p>
-    <a href="/heart-disease/">View Details →</a>
+    <p><strong>Category:</strong> Machine Learning</p>
+    <div>
+      <span style="background-color:#e0e0e0; border-radius:5px; padding:2px 6px; margin:2px;">Python</span>
+      <span style="background-color:#e0e0e0; border-radius:5px; padding:2px 6px; margin:2px;">Scikit-learn</span>
+      <span style="background-color:#e0e0e0; border-radius:5px; padding:2px 6px; margin:2px;">Pandas</span>
+    </div>
+    <p style="margin-top:10px;">Built a Random Forest model to predict heart disease risk with 94.5% accuracy.</p>
+    <a href="https://github.com/sh1vb/Machine_Learning/tree/main/Classification/Classification%20of%20Structured%20Datasets" 
+       style="display:inline-block; margin-top:10px; padding:8px 12px; background-color:#007acc; color:white; text-decoration:none; border-radius:5px;" 
+       target="_blank">View on GitHub</a>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 280px;">
